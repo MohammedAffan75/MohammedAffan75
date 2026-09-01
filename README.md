@@ -104,10 +104,12 @@ A machine-learning system that analyzes rental-property characteristics and mark
 ### 🤖 AI / ML / Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,numpy,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" />
 </p>
 
 <p>
+  <code>Pandas</code>
+  <code>Numpy</code>
   <code>Hugging Face</code>
   <code>LangChain</code>
 </p>
