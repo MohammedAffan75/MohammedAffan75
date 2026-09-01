@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/MohammedAffan75">
     <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/yourusername?tab=followers">
+  <a href="https://github.com/MohammedAffan75?tab=followers">
     <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
 </p>
@@ -32,7 +32,7 @@
 * 🧠 Strong foundation in **C++, Python, DSA, OOPS, OS, DBMS & Computer Networks**
 * ⚡ Building applications with **FastAPI, React, PostgreSQL & Docker**
 * 🤖 Exploring **Machine Learning, NLP, LLMs & AI-powered applications**
-* 📊 Interested in **Data Engineering, Business Intelligence & Analytics**
+* 📊 Interested in **Software Development, Data Science, Data Engineering, Business Intelligence & Analytics**
 * 🧩 Solved **300+ Data Structures & Algorithms problems**
 * 🏆 Google Student Campus Ambassador 2026
 * 🤝 Open to **internships, collaborations and interesting projects**
@@ -86,7 +86,7 @@ A machine-learning system that analyzes rental-property characteristics and mark
 ### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,r" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,, r" />
 </p>
 
 ### 🌐 Backend & Frontend
@@ -98,19 +98,16 @@ A machine-learning system that analyzes rental-property characteristics and mark
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb" />
 </p>
 
 ### 🤖 AI / ML / Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,scikit-learn,pytorch,numpy,pandas" />
 </p>
 
 <p>
-  <code>Pandas</code>
-  <code>NumPy</code>
-  <code>scikit-learn</code>
   <code>Hugging Face</code>
   <code>LangChain</code>
 </p>
@@ -118,7 +115,7 @@ A machine-learning system that analyzes rental-property characteristics and mark
 ### ☁️ DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode,cursor" />
 </p>
 
 ### 📊 Analytics & BI
@@ -175,10 +172,10 @@ Database Design
 
 ## 🏆 Achievements & Certifications
 
-* 🏆 **Student of the Year – 2023**
-* 🚀 **Top 10 Finalist – RVITM HACKER-Ring Hackathon**
 * 🌐 **Google Student Campus Ambassador – 2026**
+* 🚀 **Top 10 Finalist – RVITM HACKER-Ring Hackathon**
 * 💻 **300+ DSA Problems Solved**
+* 🔍 **Research paper - CIACON 2026 - Task Scheduling based on Quantum Computing** 
 * 📜 Infosys Springboard – Data Structures & Algorithms
 * 📜 CodeChef – C++ Certification
 * 📜 Cisco Networking Academy – Operating System Basics
