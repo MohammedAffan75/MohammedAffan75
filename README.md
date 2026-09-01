@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/MohammedAffan75">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=MohammedAffan75&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/MohammedAffan75?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/MohammedAffan75?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -150,12 +150,12 @@ Database Design
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAffan75&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAffan75&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MohammedAffan75&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
