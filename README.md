@@ -86,7 +86,7 @@ A machine-learning system that analyzes rental-property characteristics and mark
 ### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,, r" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,r" />
 </p>
 
 ### 🌐 Backend & Frontend
@@ -155,7 +155,7 @@ Database Design
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohammedAffan75&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MohammedAffan75&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
