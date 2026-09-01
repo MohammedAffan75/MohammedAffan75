@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/yourusername">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Full-Stack+Developer;B.Tech+AI+%26+Data+Science+Student;Building+Scalable+%26+Intelligent+Systems;300%2B+DSA+Problems+Solved" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Full-Stack+Developer;B.Tech+AI+%26+Data+Science+Student+at+SIT;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </p>
 
