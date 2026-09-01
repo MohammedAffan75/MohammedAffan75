@@ -152,21 +152,21 @@ Database Design
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MohammedAffan75&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAffan75&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="170"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedAffan75&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=MohammedAffan75&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedAffan75&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammedAffan75&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammedAffan75&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohammedAffan75&theme=tokyonight&utcOffset=5.5" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohammedAffan75&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
