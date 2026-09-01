@@ -104,7 +104,7 @@ A machine-learning system that analyzes rental-property characteristics and mark
 ### 🤖 AI / ML / Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,scikit-learn,pytorch,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,numpy,pandas,sklearn" />
 </p>
 
 <p>
@@ -150,12 +150,21 @@ Database Design
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAffan75&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAffan75&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MohammedAffan75&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAffan75&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohammedAffan75&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=MohammedAffan75&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 ---
