@@ -33,7 +33,6 @@
 * ⚡ Building applications with **FastAPI, React, PostgreSQL & Docker**
 * 🤖 Exploring **Machine Learning, NLP, LLMs & AI-powered applications**
 * 📊 Interested in **Software Development, Data Science, Data Engineering, Business Intelligence & Analytics**
-* 🧩 Solved **300+ Data Structures & Algorithms problems**
 * 🏆 Google Student Campus Ambassador 2026
 * 🤝 Open to **internships, collaborations and interesting projects**
 
