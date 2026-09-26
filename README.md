@@ -183,9 +183,9 @@ Database Design
 ## 🏆 Achievements & Certifications
 
 * 🌐 **Google Student Campus Ambassador – 2026**
-* 🚀 **Top 10 Finalist – RVITM HACKER-Ring Hackathon**
-* 💻 **300+ DSA Problems Solved**
-* 🔍 **Research paper - CIACON 2026 - Task Scheduling based on Quantum Computing** 
+* 🚀 **Top 6th Finalist – RVITM HACKER-Ring Hackathon**
+* 💻 **400+ DSA Problems Solved**
+* 🔍 **Published research paper - CIACON 2026 - Task Scheduling based on Quantum Computing** 
 * 📜 Infosys Springboard – Data Structures & Algorithms
 * 📜 CodeChef – C++ Certification
 * 📜 Cisco Networking Academy – Operating System Basics
