@@ -184,7 +184,7 @@ Database Design
 
 * 🌐 **Google Student Campus Ambassador – 2026**
 * 🚀 **Top 6th Finalist – RVITM HACKER-Ring Hackathon**
-* 💻 **400+ DSA Problems Solved**
+* 💻 **500+ DSA Problems Solved**
 * 🔍 **Published research paper - CIACON 2026 - Task Scheduling based on Quantum Computing** 
 * 📜 Infosys Springboard – Data Structures & Algorithms
 * 📜 CodeChef – C++ Certification
